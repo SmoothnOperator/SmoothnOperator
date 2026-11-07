@@ -103,7 +103,7 @@
 
   ![Open to Internships](https://img.shields.io/badge/🚀%20Open%20to-Internships%20%26%20Hackathons-brightgreen?style=for-the-badge)
   ![B.Tech Blockchain](https://img.shields.io/badge/🎓-B.Tech%20Blockchain%20(Year%202)-blue?style=for-the-badge)
-  ![Location](https://img.shields.io/badge/📍-India-orange?style=for-the-badge)
+  ![Location](https://img.shields.io/badge/📍-Bangalore%2C%20India-orange?style=for-the-badge)
 
   <p><i>Actively building decentralized protocols & modern web applications. Open to junior/intern roles & open-source contributions.</i></p>
 
