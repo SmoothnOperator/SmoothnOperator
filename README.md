@@ -1,6 +1,6 @@
-<h1 align="center">
-  Hi, I'm Nikhil Kumar <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="32px" width="32px" />
-</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SmoothnOperator/SmoothnOperator/main/assets/sliding-header.svg" alt="Hi, I'm Nikhil Kumar" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6BBBF7&center=true&vCenter=true&random=false&width=650&lines=B.Tech+%7C+Blockchain+Technology+%F0%9F%8E%93;Smart+Contracts+%C2%B7+Distributed+Systems+%E2%9B%93%EF%B8%8F;Full-Stack+Developer+%C2%B7+React+%2B+Node.js+%F0%9F%92%BB;Always+Building+%26+Exploring+Web3+%F0%9F%9A%80" alt="Typing SVG" />
