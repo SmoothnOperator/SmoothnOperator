@@ -32,12 +32,26 @@ status:    Open to internships & collaborations
 
 <br/>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1200&color=22C55E&background=0D1117&center=true&vCenter=true&width=580&height=110&lines=%24+npx+hardhat+compile;%E2%9C%94+Compiled+3+Solidity+contracts+successfully;%24+deploy+--contract+DecentriVote+--network+sepolia;%E2%9C%A8+DecentriVote+live+at+0x742d...44e8;%F0%9F%9B%A1%EF%B8%8F+Zero-knowledge+voting+proofs+active!" alt="Web3 Terminal" />
+</p>
+
+<br/>
+
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=SmoothnOperator&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Nikhil's GitHub Streak" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SmoothnOperator/SmoothnOperator/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SmoothnOperator/SmoothnOperator/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/SmoothnOperator/SmoothnOperator/output/github-snake-dark.svg" />
+  </picture>
 </p>
 
 
@@ -69,6 +83,14 @@ status:    Open to internships & collaborations
   > If you have an interesting project or opportunity, let's connect!
 
 </div>
+
+<br/>
+
+<p align="center">
+  <a href="https://open.spotify.com">
+    <img src="https://raw.githubusercontent.com/SmoothnOperator/SmoothnOperator/main/assets/spotify-player.svg" alt="Listening on Spotify" />
+  </a>
+</p>
 
 <br/>
 
