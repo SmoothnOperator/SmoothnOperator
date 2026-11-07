@@ -15,12 +15,12 @@
 <img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 
 ```yaml
-name:       Nikhil Kumar
-degree:     B.Tech — Blockchain Technology (2nd Year)
-focus:      Blockchain Development · Distributed Systems · Secure Applications
-location:   India 🇮🇳
-learning:   Smart contracts, DeFi protocols & Web3 development
-currently:  Open to internships, collaborations & opportunities
+name:      Nikhil Kumar
+degree:    B.Tech — Blockchain Technology (2nd Year)
+focus:     Blockchain · Distributed Systems · Secure Apps
+location:  India 🇮🇳
+learning:  Smart contracts, DeFi & Web3 development
+status:    Open to internships & collaborations
 ```
 
 - ⛓️ Specializing in **Blockchain Technology** with a focus on distributed systems and secure apps
