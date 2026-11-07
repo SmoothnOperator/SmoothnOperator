@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="210" viewBox="0 0 850 210" fill="none">
+  <defs>
+    <!-- Deep Cyber Gradient Background -->
+    <linearGradient id="cyberBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070c18" />
+      <stop offset="45%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#1e1035" />
+    </linearGradient>
+
+    <!-- Glowing Border Gradient -->
+    <linearGradient id="neonBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="50%" stop-color="#818cf8" />
+      <stop offset="100%" stop-color="#c084fc" />
+    </linearGradient>
+
+    <!-- Corner Ambient Glow Filters -->
+    <radialGradient id="cyanGlow" cx="10%" cy="10%" r="50%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.18" />
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0" />
+    </radialGradient>
+
+    <radialGradient id="violetGlow" cx="90%" cy="90%" r="50%">
+      <stop offset="0%" stop-color="#c084fc" stop-opacity="0.18" />
+      <stop offset="100%" stop-color="#c084fc" stop-opacity="0" />
+    </radialGradient>
+
+    <!-- Cyber Circuit Grid Pattern -->
+    <pattern id="cyberGrid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#38bdf8" stroke-width="0.6" stroke-opacity="0.08" />
+    </pattern>
+
+    <!-- Neon Glow Filter -->
+    <filter id="borderGlow" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    @keyframes neonPulse {
+      0%, 100% { stroke-opacity: 0.7; }
+      50% { stroke-opacity: 1; filter: drop-shadow(0 0 6px #38bdf8); }
+    }
+    .neon-frame { animation: neonPulse 4s ease-in-out infinite; }
+  </style>
+
+  <!-- Base Card Background -->
+  <rect x="2" y="2" width="846" height="206" rx="14" fill="url(#cyberBg)" />
+  <rect x="2" y="2" width="846" height="206" rx="14" fill="url(#cyberGrid)" />
+  <rect x="2" y="2" width="846" height="206" rx="14" fill="url(#cyanGlow)" />
+  <rect x="2" y="2" width="846" height="206" rx="14" fill="url(#violetGlow)" />
+
+  <!-- Glowing Neon Cyber Border -->
+  <rect class="neon-frame" x="2" y="2" width="846" height="206" rx="14" fill="none" stroke="url(#neonBorder)" stroke-width="1.8" />
+
+  <!-- Terminal Window Title Bar -->
+  <rect x="2" y="2" width="846" height="36" rx="14" fill="#0f172a" fill-opacity="0.75" />
+  <path d="M 2 38 L 848 38" stroke="#1e293b" stroke-width="1" />
+
+  <!-- Terminal Control Buttons -->
+  <circle cx="24" cy="20" r="5.5" fill="#ff5f56" />
+  <circle cx="42" cy="20" r="5.5" fill="#ffbd2e" />
+  <circle cx="60" cy="20" r="5.5" fill="#27c93f" />
+
+  <!-- Terminal Title -->
+  <text x="82" y="24" fill="#94a3b8" font-family="'Fira Code', 'JetBrains Mono', Consolas, monospace" font-size="12" font-weight="600">
+    nikhil@web3-node: ~/about-me.yml
+  </text>
+
+  <!-- YAML Fields Content -->
+  <!-- Field 1: name -->
+  <text x="32" y="68" fill="#38bdf8" font-family="'Fira Code', 'JetBrains Mono', Consolas, monospace" font-size="13.5" font-weight="600">name:</text>
+  <text x="140" y="68" fill="#f8fafc" font-family="'Fira Code', 'JetBrains Mono', Consolas, monospace" font-size="13.5">Nikhil Kumar</text>
+
+  <!-- Field 2: degree -->
+  <text x="32" y="96" fill="#38bdf8" font-family="'Fira Code', 'JetBrains Mono', Consolas, monospace" font-size="13.5" font-weight="600">degree:</text>
+  <text x="140" y="96" fill="#f8fafc" font-family="'Fira Code', 'JetBrains Mono', Consolas, monospace" font-size="13.5">B.Tech — Blockchain Technology (2nd Year)</text>
+
+  <!-- Field 3: focus -->
+  <text x="32" y="124" fill="#38bdf8" font-family="'Fira Code', 'JetBrains Mono', Consolas, monospace" font-size="13.5" font-weight="600">focus:</text>
+  <text x="140" y="124" fill="#f8fafc" font-family="'Fira Code', 'JetBrains Mono', Consolas, monospace" font-size="13.5">Blockchain Architecture · Smart Contracts · Distributed Systems</text>
+
+  <!-- Field 4: location -->
+  <text x="32" y="152" fill="#38bdf8" font-family="'Fira Code', 'JetBrains Mono', Consolas, monospace" font-size="13.5" font-weight="600">location:</text>
+  <text x="140" y="152" fill="#f8fafc" font-family="'Fira Code', 'JetBrains Mono', Consolas, monospace" font-size="13.5">India 🇮🇳</text>
+
+  <!-- Field 5: status -->
+  <text x="32" y="180" fill="#38bdf8" font-family="'Fira Code', 'JetBrains Mono', Consolas, monospace" font-size="13.5" font-weight="600">status:</text>
+  <text x="140" y="180" fill="#4ade80" font-family="'Fira Code', 'JetBrains Mono', Consolas, monospace" font-size="13.5" font-weight="500">● Open to Internships, Hackathons &amp; Web3 Collaborations</text>
+</svg>

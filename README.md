@@ -14,13 +14,9 @@
 
 ## 👨‍💻 About Me
 
-```yaml
-name:       Nikhil Kumar
-degree:     B.Tech — Blockchain Technology (2nd Year)
-focus:      Blockchain Architecture · Distributed Systems · Smart Contracts
-location:   India 🇮🇳
-status:     Open to Internships, Hackathons & Collaborations
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SmoothnOperator/SmoothnOperator/main/assets/about-me-card.svg" alt="About Nikhil Kumar" width="100%" />
+</p>
 
 - ⛓️ **Specialization:** 2nd-year B.Tech undergrad specializing in **Blockchain Technology**
 - 🔐 **Core Interests:** Smart contracts, DeFi protocols, decentralized identity & cryptographic security
@@ -96,7 +92,7 @@ status:     Open to Internships, Hackathons & Collaborations
 ## 📊 GitHub Contributions
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SmoothnOperator&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=SmoothnOperator&background=0F172A&border=38BDF8&stroke=38BDF8&ring=C084FC&fire=38BDF8&currStreakNum=38BDF8&sideNums=C084FC&currStreakLabel=F8FAFC&sideLabels=94A3B8&dates=7DD3FC&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <br/>
