@@ -111,6 +111,12 @@
 
 <br/>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SmoothnOperator/SmoothnOperator/main/assets/cozy-coder.gif" alt="Cozy Coding Station" width="500" />
+</p>
+
+<br/>
+
 ---
 
 ## 🔗 Connect with Me
