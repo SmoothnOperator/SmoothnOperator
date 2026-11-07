@@ -78,7 +78,7 @@
 
   <!-- Field 2: degree -->
   <text x="32" y="96" fill="#38bdf8" font-family="'Fira Code', 'JetBrains Mono', Consolas, monospace" font-size="13.5" font-weight="600">degree:</text>
-  <text x="140" y="96" fill="#f8fafc" font-family="'Fira Code', 'JetBrains Mono', Consolas, monospace" font-size="13.5">B.Tech — Blockchain Technology (2nd Year)</text>
+  <text x="140" y="96" fill="#f8fafc" font-family="'Fira Code', 'JetBrains Mono', Consolas, monospace" font-size="13.5">B.Tech CSE — Specialization: Blockchain Technology (Year 2)</text>
 
   <!-- Field 3: focus -->
   <text x="32" y="124" fill="#38bdf8" font-family="'Fira Code', 'JetBrains Mono', Consolas, monospace" font-size="13.5" font-weight="600">focus:</text>

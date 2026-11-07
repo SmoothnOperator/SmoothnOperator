@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="205" viewBox="0 0 850 205" fill="none">
+  <defs>
+    <!-- Deep Cyber Gradient Background -->
+    <linearGradient id="eduBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070c18" />
+      <stop offset="50%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#1e1035" />
+    </linearGradient>
+
+    <!-- Glowing Border Gradient -->
+    <linearGradient id="eduBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="50%" stop-color="#818cf8" />
+      <stop offset="100%" stop-color="#c084fc" />
+    </linearGradient>
+
+    <!-- Cyber Circuit Grid Pattern -->
+    <pattern id="eduGrid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#38bdf8" stroke-width="0.6" stroke-opacity="0.07" />
+    </pattern>
+
+    <!-- Corner Ambient Glow Filters -->
+    <radialGradient id="cyanCornerEdu" cx="5%" cy="95%" r="50%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.15" />
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="purpleCornerEdu" cx="95%" cy="5%" r="50%">
+      <stop offset="0%" stop-color="#c084fc" stop-opacity="0.15" />
+      <stop offset="100%" stop-color="#c084fc" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+
+  <style>
+    @keyframes eduBorderPulse {
+      0%, 100% { stroke-opacity: 0.7; }
+      50% { stroke-opacity: 1; filter: drop-shadow(0 0 6px #38bdf8); }
+    }
+    .edu-frame { animation: eduBorderPulse 4s ease-in-out infinite; }
+  </style>
+
+  <!-- Base Panel Canvas -->
+  <rect x="2" y="2" width="846" height="201" rx="14" fill="url(#eduBg)" />
+  <rect x="2" y="2" width="846" height="201" rx="14" fill="url(#eduGrid)" />
+  <rect x="2" y="2" width="846" height="201" rx="14" fill="url(#cyanCornerEdu)" />
+  <rect x="2" y="2" width="846" height="201" rx="14" fill="url(#purpleCornerEdu)" />
+
+  <!-- Glowing Cyber Border -->
+  <rect class="edu-frame" x="2" y="2" width="846" height="201" rx="14" fill="none" stroke="url(#eduBorder)" stroke-width="1.8" />
+
+  <!-- Header Row: Degree Title & Status Tag -->
+  <g transform="translate(32, 34)">
+    <text x="0" y="0" fill="#f8fafc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="17" font-weight="800" letter-spacing="0.4">
+      B.Tech CSE — Specialization: Blockchain Technology
+    </text>
+    <rect x="615" y="-15" width="170" height="22" rx="6" fill="#0f172a" stroke="#22c55e" stroke-width="1" />
+    <circle cx="628" cy="-4" r="3.5" fill="#22c55e" />
+    <text x="638" y="-1" fill="#4ade80" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="700">2025 – 2029 · ACTIVE</text>
+  </g>
+
+  <!-- Institution Row -->
+  <g transform="translate(32, 64)">
+    <text x="0" y="0" fill="#38bdf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14.5" font-weight="700">
+      🏛️ Jain (Deemed-to-be University) · Bangalore, India
+    </text>
+  </g>
+
+  <!-- Divider Line -->
+  <line x1="32" y1="82" x2="818" y2="82" stroke="#1e293b" stroke-width="1.2" stroke-dasharray="4 6" opacity="0.6" />
+
+  <!-- Coursework Section Title -->
+  <g transform="translate(32, 108)">
+    <text x="0" y="0" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="700" letter-spacing="1.2">
+      CORE COURSEWORK &amp; ENGINEERING DOMAINS:
+    </text>
+  </g>
+
+  <!-- Coursework Badges / Pills Row 1 -->
+  <g transform="translate(32, 126)">
+    <!-- Pill 1 -->
+    <rect x="0" y="0" width="180" height="26" rx="6" fill="#1e1b4b" stroke="#818cf8" stroke-width="1" />
+    <text x="90" y="17" text-anchor="middle" fill="#c7d2fe" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="600">⛓️ Blockchain Architecture</text>
+
+    <!-- Pill 2 -->
+    <rect x="192" y="0" width="180" height="26" rx="6" fill="#0f2b3c" stroke="#38bdf8" stroke-width="1" />
+    <text x="282" y="17" text-anchor="middle" fill="#bae6fd" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="600">📜 Smart Contracts &amp; Solidity</text>
+
+    <!-- Pill 3 -->
+    <rect x="384" y="0" width="175" height="26" rx="6" fill="#1e1b4b" stroke="#818cf8" stroke-width="1" />
+    <text x="471" y="17" text-anchor="middle" fill="#c7d2fe" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="600">🌐 Distributed Systems</text>
+
+    <!-- Pill 4 -->
+    <rect x="571" y="0" width="215" height="26" rx="6" fill="#0f2b3c" stroke="#38bdf8" stroke-width="1" />
+    <text x="678" y="17" text-anchor="middle" fill="#bae6fd" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="600">🔐 Cryptography &amp; Network Security</text>
+  </g>
+
+  <!-- Coursework Badges / Pills Row 2 -->
+  <g transform="translate(32, 162)">
+    <!-- Pill 5 -->
+    <rect x="0" y="0" width="220" height="26" rx="6" fill="#1e1b4b" stroke="#818cf8" stroke-width="1" />
+    <text x="110" y="17" text-anchor="middle" fill="#c7d2fe" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="600">📊 Data Structures &amp; Algorithms</text>
+
+    <!-- Pill 6 -->
+    <rect x="232" y="0" width="225" height="26" rx="6" fill="#0f2b3c" stroke="#38bdf8" stroke-width="1" />
+    <text x="344" y="17" text-anchor="middle" fill="#bae6fd" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="600">💻 Computer Org. &amp; Architecture</text>
+
+    <!-- Pill 7 -->
+    <rect x="469" y="0" width="185" height="26" rx="6" fill="#1e1b4b" stroke="#818cf8" stroke-width="1" />
+    <text x="561" y="17" text-anchor="middle" fill="#c7d2fe" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="600">🗄️ Database Management (DBMS)</text>
+  </g>
+</svg>

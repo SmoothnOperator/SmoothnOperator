@@ -26,6 +26,16 @@
 
 ---
 
+## 🎓 Education
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SmoothnOperator/SmoothnOperator/main/assets/education-card.svg" alt="Education - Jain University" width="100%" />
+</p>
+
+<br/>
+
+---
+
 ## 🏆 Featured Projects
 
 <table align="center" width="100%">
