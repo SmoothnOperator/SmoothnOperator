@@ -12,7 +12,7 @@
 
 ## 🙋‍♂️ About Me
 
-<img align="right" alt="Coding" width="380" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717565656475702e636f6d2f636f6e74656e742f696d616765732f70726f66696c652f323031392f30362f31322f313233303130342f31323330313034303030303030302e6769663f73717565656475702d726566657272656473747265616d3d7472756526763d31363132373635313237">
+<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 
 ```yaml
 name:       Nikhil Kumar
@@ -37,20 +37,20 @@ currently:  Open to internships, collaborations & opportunities
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smoothnoperator&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="Nikhil's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=smoothnoperator&theme=nightowl&hide_border=true&cache_seconds=86400" alt="Nikhil's GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SmoothnOperator&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="Nikhil's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=SmoothnOperator&theme=nightowl&hide_border=true&cache_seconds=86400" alt="Nikhil's GitHub Streak" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smoothnoperator&layout=compact&theme=nightowl&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmoothnOperator&layout=compact&theme=nightowl&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=smoothnoperator&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Nikhil's GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SmoothnOperator&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Nikhil's GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=smoothnoperator&theme=nightowl&radius=10" alt="smoothnoperator's Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=SmoothnOperator&theme=nightowl&radius=10" alt="SmoothnOperator's Activity Graph" />
 </p>
 
 <br/>
@@ -147,6 +147,6 @@ currently:  Open to internships, collaborations & opportunities
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=smoothnoperator&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=SmoothnOperator&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
 
