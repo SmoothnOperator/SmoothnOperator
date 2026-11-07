@@ -6,6 +6,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6BBBF7&center=true&vCenter=true&random=false&width=650&lines=B.Tech+%7C+Blockchain+Technology+%F0%9F%8E%93;Smart+Contracts+%C2%B7+Distributed+Systems+%E2%9B%93%EF%B8%8F;Full-Stack+Developer+%C2%B7+React+%2B+Node.js+%F0%9F%92%BB;Always+Building+%26+Exploring+Web3+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Cyberpunk Banner" width="100%" />
+</p>
+
 <br/>
 
 ## 👨‍💻 About Me
