@@ -18,11 +18,9 @@
   <img src="https://raw.githubusercontent.com/SmoothnOperator/SmoothnOperator/main/assets/about-me-card.svg" alt="About Nikhil Kumar" width="100%" />
 </p>
 
-- ⛓️ **Specialization:** 2nd-year B.Tech undergrad specializing in **Blockchain Technology**
-- 🔐 **Core Interests:** Smart contracts, DeFi protocols, decentralized identity & cryptographic security
-- 💻 **Full-Stack Foundation:** Building performant web applications using **React, Next.js, Node.js & TypeScript**
-- 🤝 **Collaborations:** Eager to contribute to **open-source Web3 projects** and join hackathon teams
-- ⚡ **Fun Fact:** I debug with `console.log` and I'm not ashamed of it 😄
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1800&color=38BDF8&background=0F172A&center=true&vCenter=true&width=750&height=70&lines=%E2%9B%93%EF%B8%8F+Specialization%3A+2nd-year+B.Tech+in+Blockchain+Technology;%F0%9F%94%90+Core+Interests%3A+Smart+contracts%2C+DeFi+%26+cryptography;%F0%9F%92%BB+Full-Stack%3A+React%2C+Next.js%2C+Node.js+%26+TypeScript;%F0%9F%A4%9D+Collaborations%3A+Open-source+Web3+projects+%26+hackathons;%E2%9A%A1+Fun+Fact%3A+I+debug+with+console.log+and+I'm+proud+of+it+%F0%9F%98%84" alt="Live Developer Feed" />
+</p>
 
 <br/>
 
