@@ -37,8 +37,7 @@ currently:  Open to internships, collaborations & opportunities
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SmoothnOperator&show_icons=true&theme=nightowl&hide_border=true&count_private=true" alt="Nikhil's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=SmoothnOperator&theme=nightowl&hide_border=true" alt="Nikhil's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=SmoothnOperator&theme=nightowl&hide_border=true" alt="Nikhil's GitHub Streak" />
 </p>
 
 
