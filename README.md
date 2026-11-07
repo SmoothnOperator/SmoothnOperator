@@ -46,14 +46,6 @@ status:    Open to internships & collaborations
   <img src="https://streak-stats.demolab.com/?user=SmoothnOperator&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Nikhil's GitHub Streak" />
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SmoothnOperator/SmoothnOperator/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SmoothnOperator/SmoothnOperator/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/SmoothnOperator/SmoothnOperator/output/github-snake-dark.svg" />
-  </picture>
-</p>
-
 
 <br/>
 
