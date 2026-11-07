@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="205" viewBox="0 0 850 205" fill="none">
+  <defs>
+    <!-- Deep Cyber Gradient Background -->
+    <linearGradient id="panelBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070c18" />
+      <stop offset="50%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#1e1035" />
+    </linearGradient>
+
+    <!-- Glowing Border Gradient -->
+    <linearGradient id="panelBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="50%" stop-color="#818cf8" />
+      <stop offset="100%" stop-color="#c084fc" />
+    </linearGradient>
+
+    <!-- Cyber Circuit Grid Pattern -->
+    <pattern id="panelGrid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#38bdf8" stroke-width="0.6" stroke-opacity="0.07" />
+    </pattern>
+
+    <!-- Corner Ambient Glow Filters -->
+    <radialGradient id="cyanCorner" cx="5%" cy="95%" r="50%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.15" />
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="purpleCorner" cx="95%" cy="5%" r="50%">
+      <stop offset="0%" stop-color="#c084fc" stop-opacity="0.15" />
+      <stop offset="100%" stop-color="#c084fc" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+
+  <style>
+    @keyframes borderPulse {
+      0%, 100% { stroke-opacity: 0.7; }
+      50% { stroke-opacity: 1; filter: drop-shadow(0 0 6px #38bdf8); }
+    }
+    @keyframes iconPulse {
+      0%, 100% { transform: scale(1); }
+      50% { transform: scale(1.15); filter: drop-shadow(0 0 5px #38bdf8); }
+    }
+    .panel-frame { animation: borderPulse 4s ease-in-out infinite; }
+  </style>
+
+  <!-- Base Panel Canvas -->
+  <rect x="2" y="2" width="846" height="201" rx="14" fill="url(#panelBg)" />
+  <rect x="2" y="2" width="846" height="201" rx="14" fill="url(#panelGrid)" />
+  <rect x="2" y="2" width="846" height="201" rx="14" fill="url(#cyanCorner)" />
+  <rect x="2" y="2" width="846" height="201" rx="14" fill="url(#purpleCorner)" />
+
+  <!-- Glowing Cyber Border -->
+  <rect class="panel-frame" x="2" y="2" width="846" height="201" rx="14" fill="none" stroke="url(#panelBorder)" stroke-width="1.8" />
+
+  <!-- Item 1: Specialization -->
+  <g transform="translate(26, 32)">
+    <circle cx="8" cy="-5" r="4" fill="#38bdf8" />
+    <text x="24" y="0" fill="#38bdf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="700">Specialization:</text>
+    <text x="145" y="0" fill="#f8fafc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5">2nd-year B.Tech undergrad specializing in</text>
+    <text x="440" y="0" fill="#c084fc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="700">Blockchain Technology</text>
+  </g>
+
+  <!-- Item 2: Core Interests -->
+  <g transform="translate(26, 68)">
+    <circle cx="8" cy="-5" r="4" fill="#c084fc" />
+    <text x="24" y="0" fill="#38bdf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="700">Core Interests:</text>
+    <text x="145" y="0" fill="#f8fafc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5">Smart contracts, DeFi protocols, decentralized identity &amp; security</text>
+  </g>
+
+  <!-- Item 3: Full-Stack -->
+  <g transform="translate(26, 104)">
+    <circle cx="8" cy="-5" r="4" fill="#38bdf8" />
+    <text x="24" y="0" fill="#38bdf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="700">Full-Stack:</text>
+    <text x="145" y="0" fill="#f8fafc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5">Building performant web applications using</text>
+    <text x="448" y="0" fill="#38bdf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="700">React, Next.js, Node.js &amp; TS</text>
+  </g>
+
+  <!-- Item 4: Collaborations -->
+  <g transform="translate(26, 140)">
+    <circle cx="8" cy="-5" r="4" fill="#c084fc" />
+    <text x="24" y="0" fill="#38bdf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="700">Collaborations:</text>
+    <text x="145" y="0" fill="#f8fafc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5">Eager to contribute to</text>
+    <text x="300" y="0" fill="#4ade80" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="700">open-source Web3 projects</text>
+    <text x="500" y="0" fill="#f8fafc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5">&amp; join hackathon teams</text>
+  </g>
+
+  <!-- Item 5: Fun Fact -->
+  <g transform="translate(26, 176)">
+    <circle cx="8" cy="-5" r="4" fill="#f59e0b" />
+    <text x="24" y="0" fill="#38bdf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="700">Fun Fact:</text>
+    <text x="145" y="0" fill="#f8fafc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5">I debug with</text>
+    <text x="238" y="0" fill="#f59e0b" font-family="'Fira Code', Consolas, monospace" font-size="13" font-weight="600">console.log</text>
+    <text x="330" y="0" fill="#f8fafc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5">and I'm not ashamed of it 😄</text>
+  </g>
+</svg>
