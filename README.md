@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Cyberpunk Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/SmoothnOperator/SmoothnOperator/main/assets/lightning-banner.svg" alt="Lightning Banner" width="100%" />
 </p>
 
 <br/>
