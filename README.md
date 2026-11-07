@@ -37,7 +37,7 @@ status:    Open to internships & collaborations
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SmoothnOperator&theme=nightowl&hide_border=true" alt="Nikhil's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=SmoothnOperator&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Nikhil's GitHub Streak" />
 </p>
 
 
