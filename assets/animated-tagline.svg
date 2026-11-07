@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="750" height="70" viewBox="0 0 750 70" fill="none">
+  <defs>
+    <!-- Shifting Multi-Color Neon Gradient -->
+    <linearGradient id="neonGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8">
+        <animate attributeName="stop-color" values="#38bdf8;#c084fc;#34d399;#38bdf8" dur="6s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" stop-color="#818cf8">
+        <animate attributeName="stop-color" values="#818cf8;#f43f5e;#38bdf8;#818cf8" dur="6s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#c084fc">
+        <animate attributeName="stop-color" values="#c084fc;#34d399;#818cf8;#c084fc" dur="6s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+
+    <!-- Neon Glow Filter -->
+    <filter id="laserGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    /* 4-Phase Rotating Text Sequence */
+    @keyframes textSeq1 {
+      0%, 20% { opacity: 1; transform: translateY(0px); }
+      24%, 96% { opacity: 0; transform: translateY(-10px); }
+      100% { opacity: 1; transform: translateY(0px); }
+    }
+    @keyframes textSeq2 {
+      0%, 20% { opacity: 0; transform: translateY(10px); }
+      25%, 45% { opacity: 1; transform: translateY(0px); }
+      49%, 100% { opacity: 0; transform: translateY(-10px); }
+    }
+    @keyframes textSeq3 {
+      0%, 45% { opacity: 0; transform: translateY(10px); }
+      50%, 70% { opacity: 1; transform: translateY(0px); }
+      74%, 100% { opacity: 0; transform: translateY(-10px); }
+    }
+    @keyframes textSeq4 {
+      0%, 70% { opacity: 0; transform: translateY(10px); }
+      75%, 95% { opacity: 1; transform: translateY(0px); }
+      99%, 100% { opacity: 0; transform: translateY(-10px); }
+    }
+
+    .seq-1 { animation: textSeq1 12s cubic-bezier(0.16, 1, 0.3, 1) infinite; }
+    .seq-2 { animation: textSeq2 12s cubic-bezier(0.16, 1, 0.3, 1) infinite; }
+    .seq-3 { animation: textSeq3 12s cubic-bezier(0.16, 1, 0.3, 1) infinite; }
+    .seq-4 { animation: textSeq4 12s cubic-bezier(0.16, 1, 0.3, 1) infinite; }
+
+    .tagline-text {
+      font-family: 'Fira Code', 'JetBrains Mono', Consolas, -apple-system, monospace;
+      font-size: 19px;
+      font-weight: 700;
+      letter-spacing: 0.8px;
+    }
+
+    /* Ambient Pulsing Glow */
+    @keyframes pulseGlow {
+      0%, 100% { filter: drop-shadow(0 0 5px rgba(56, 189, 248, 0.4)); }
+      50% { filter: drop-shadow(0 0 14px rgba(192, 132, 252, 0.7)) drop-shadow(0 0 4px rgba(52, 211, 153, 0.8)); }
+    }
+    .glow-wrap { animation: pulseGlow 4s ease-in-out infinite; }
+  </style>
+
+  <!-- Tagline Content Wrapper with Glow -->
+  <g class="glow-wrap">
+    <!-- Line 1: B.Tech Blockchain -->
+    <g class="seq-1">
+      <text x="375" y="32" text-anchor="middle" fill="url(#neonGrad)" class="tagline-text">
+        🎓 B.Tech in Blockchain Technology · 2nd Year
+      </text>
+    </g>
+
+    <!-- Line 2: Smart Contracts & Distributed Systems -->
+    <g class="seq-2">
+      <text x="375" y="32" text-anchor="middle" fill="url(#neonGrad)" class="tagline-text">
+        ⛓️ Smart Contracts · DeFi Protocols · Distributed Systems
+      </text>
+    </g>
+
+    <!-- Line 3: Full-Stack Developer -->
+    <g class="seq-3">
+      <text x="375" y="32" text-anchor="middle" fill="url(#neonGrad)" class="tagline-text">
+        💻 Full-Stack Developer · React + Node.js &amp; TypeScript
+      </text>
+    </g>
+
+    <!-- Line 4: Always Building -->
+    <g class="seq-4">
+      <text x="375" y="32" text-anchor="middle" fill="url(#neonGrad)" class="tagline-text">
+        🚀 Always Building, Learning &amp; Exploring Web3
+      </text>
+    </g>
+  </g>
+
+  <!-- Glowing Laser Energy Wave Underline -->
+  <g transform="translate(125, 52)">
+    <!-- Passive Track -->
+    <line x1="0" y1="0" x2="500" y2="0" stroke="#1e293b" stroke-width="2" stroke-linecap="round" opacity="0.6"/>
+    
+    <!-- Moving Electric Laser Beam -->
+    <line x1="0" y1="0" x2="160" y2="0" stroke="url(#neonGrad)" stroke-width="2.8" stroke-linecap="round" filter="url(#laserGlow)">
+      <animate attributeName="x1" values="0;340;0" dur="3s" repeatCount="indefinite" />
+      <animate attributeName="x2" values="160;500;160" dur="3s" repeatCount="indefinite" />
+    </line>
+  </g>
+</svg>
