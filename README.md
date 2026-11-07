@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Nikhil+Kumar&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Blockchain+Developer+%7C+B.Tech+2nd+Year&descAlignY=55&descAlign=50" width="100%" />
-</p>
-
 <h1 align="center">
   Hi, I'm Nikhil&nbsp;<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="32px" width="32px" />
 </h1>
@@ -33,29 +29,6 @@ currently:  Open to internships, collaborations & opportunities
 - 👯 Looking to collaborate on **blockchain projects**, **open-source**, and **hackathons**
 - 💬 Ask me about **JavaScript, React, Node.js, Blockchain, or Python**
 - ⚡ Fun fact: I debug with `console.log` and I'm not ashamed of it 😄
-
-<br/>
-
----
-
-## 🚀 Currently Working On
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30"/><br/>
-      <strong>Project 1</strong><br/>
-      <sub>Add your current project here — update the README!</sub>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30"/><br/>
-      <strong>Project 2</strong><br/>
-      <sub>Add your current project here — update the README!</sub>
-    </td>
-  </tr>
-</table>
-
-> 💡 *Drop me a message if you want to collaborate on something cool!*
 
 <br/>
 
@@ -177,20 +150,3 @@ currently:  Open to internships, collaborations & opportunities
   <img src="https://komarev.com/ghpvc/?username=smoothnoperator&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<br/>
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks+for+visiting!&fontSize=24&fontColor=fff&animation=twinkling" />
-</p>
-
-<p align="center">
-  <sub>Made with ❤️ by <strong>Nikhil Kumar</strong></sub>
-</p>
